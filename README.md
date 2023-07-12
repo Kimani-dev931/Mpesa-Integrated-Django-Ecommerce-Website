@@ -1,1 +1,2 @@
-
+# Mpesa Integrated ecommerce website.
+This is an ecommerce system that has an HTML, CSS, JavaScript, and SCSS frontend, and a Django backend. The ecommerce system is integrated with Mpesa, allowing users to purchase products. When a user makes a purchase, an Mpesa prompt message is sent to their phone, asking them to enter their Mpesa PIN. Additionally, the ecommerce system includes authentication features, enabling users to sign up, log in, and log out. Below are screenshots demonstrating the process of a user purchasing a product.
