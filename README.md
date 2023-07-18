@@ -7,4 +7,5 @@ This is an ecommerce system that has an HTML, CSS, JavaScript, and SCSS frontend
 ![page5](https://github.com/Kimani-dev931/Django-Ecommerce/assets/77829096/b774d6dd-d39f-4258-8a5d-414fe1746ef5)
 ![page6](https://github.com/Kimani-dev931/Django-Ecommerce/assets/77829096/521cf488-dcc2-4523-a2f7-5ef555b3b479)
 ![page7](https://github.com/Kimani-dev931/Django-Ecommerce/assets/77829096/b99667b2-d288-4dd8-9fe7-52e2be51d5a6)
+![M-PESA](https://github.com/Kimani-dev931/Mpesa-Integrated-Django-Ecommerce-Website/assets/77829096/523f77bf-13c0-461d-9a40-d5774ae21564)
 
